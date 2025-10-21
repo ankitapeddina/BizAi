@@ -6,7 +6,7 @@ const Home = () => {
       {/* Header */}
       <header className="p-6 flex justify-between items-center z-10">
         <h1 className="text-3xl font-bold" style={{ color: "#0D1B2A" }}>
-          BizAI
+          BizAI is dodne by sard
         </h1>
         <nav className="space-x-6">
           <Link to="/dashboard" className="text-[#415A77] hover:text-[#1B263B]">
